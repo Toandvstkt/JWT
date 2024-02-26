@@ -1,0 +1,14 @@
+lỗi phiên bản nên xóa hết nội dung trong thư mục node_modules
+sau đó cài lại từng module
+install thêm --force để tránh lỗi khác phiên bản
+
+2. Bỏ function auth
+
+https://medium.com/@prashantramnyc/difference-between-session-cookies-vs-jwt-json-web-tokens-for-session-management-4be67d2f066e
+
+
+
+How to Build an Authentication API with JWT Token in Node.js
+https://www.section.io/engineering-education/how-to-build-authentication-api-with-jwt-token-in-nodejs/
+
+nhớ run cmd administrator với https
